@@ -12,6 +12,10 @@ body {
 
 /* Add styles here! */
 
+html {
+  font-size: 18px;
+}
+
 strong {
   color: hsl(160deg, 100%, 30%)
 }
